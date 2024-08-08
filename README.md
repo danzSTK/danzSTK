@@ -4,9 +4,11 @@
 ]()
 
 
-  
-![Daniel Félixs GitHub stats](https://github-readme-stats.vercel.app/api?username=danzSTK&_icons=true&theme=dracula)
-![Daniel Félix Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzSTK&layout=compact)
+  <div style="margin-left: 10px;">
+  ![Daniel Félixs GitHub stats](https://github-readme-stats.vercel.app/api?username=danzSTK&_icons=true&theme=dracula) <br />
+  ![Daniel Félix Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzSTK&layout=compact)
+    
+  </div>
 
 
 ## Tecnologias
