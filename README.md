@@ -1,46 +1,80 @@
-# Olá, sou Daniel Félix 😉
+# Olá, eu sou Daniel Félix
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-]()
+Desenvolvedor Full Stack focado em construir aplicações web com **TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS** e **PostgreSQL**.
 
+Tenho interesse forte em backend, arquitetura de software, autenticação, infraestrutura e deploy de aplicações reais. Atualmente venho aprofundando meus estudos em **DDD**, **Clean Architecture**, **Docker**, **Redis**, **NGINX** e cloud.
 
-  
-  ![Daniel Félixs GitHub stats](https://github-readme-stats.vercel.app/api?username=danzSTK&_icons=true&theme=dracula) <hr />
-  ![Daniel Félix Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzSTK&layout=compact)
+---
 
+## Sobre mim
 
+- Trabalho com desenvolvimento web full stack
+- Gosto de construir produtos completos, do frontend ao deploy
+- Tenho foco em código simples, bem modelado e sustentável
+- Estou evoluindo principalmente em backend, arquitetura e infraestrutura
 
-## Tecnologias
+---
 
-<div style="display: inline_block;"> <br/>
-  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+## Stack principal
 
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
 
+---
 
-## FrameWorks, Plataforms and Libraries 
+## Projeto em destaque
 
-<div style="display: inline_block;"> <br/> 
-  <img align="center" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<div/>
+### Personal Finance App
 
+Aplicação de finanças pessoais em desenvolvimento, criada para estudar e aplicar conceitos de produto real, autenticação, modelagem de domínio, cache, deploy e arquitetura backend.
 
-#### Isto é para os loucos. Os desajustados. Os rebeldes. Os criadores de caso.
+**Backend**
 
-## Projetos recentes:
+- NestJS, TypeORM, PostgreSQL e Redis
+- Autenticação com JWT, refresh token e sessões
+- Organização baseada em DDD, Use Cases e Repository Pattern
+- Docker, NGINX e deploy em ambiente Linux
 
-- [Clone Disney+](https://clone-disneyplus-iota-dusky.vercel.app) <br/>
-- [clothing store page](https://clothing-store-page.vercel.app) <br/>
-- [Restaurante page](https://restaurante-page.vercel.app) <br/>
+**Frontend**
+
+- Next.js, React, TypeScript e Tailwind CSS
+- Consumo de API, autenticação e interface responsiva
+- Foco em experiência mobile-first e componentização limpa
+
+---
+
+## Estudando agora
+
+- Domain-Driven Design
+- Clean Architecture
+- Segurança em autenticação
+- Infraestrutura com Linux, Docker e NGINX
+- Cloud, deploy e observabilidade de aplicações reais
+
+---
+
+## GitHub
+
+<div align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danzSTK&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzSTK&layout=compact&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/danielfelixdev](https://www.linkedin.com/in/danielfelixdev)
+- GitHub: [github.com/danzSTK](https://github.com/danzSTK)
