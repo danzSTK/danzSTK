@@ -8,12 +8,13 @@ Tenho interesse especial em backend, modelagem de domínio, autenticação, arqu
 
 ---
 
-## Sobre mim
+## Como trabalho
 
-- Trabalho com desenvolvimento web full stack
-- Gosto de construir produtos completos, do frontend ao deploy
-- Tenho foco em código simples, bem modelado e sustentável
-- Estou evoluindo principalmente em backend, arquitetura e infraestrutura
+Gosto de entender o problema antes de escolher a ferramenta. Tenho mais experiência no ecossistema JavaScript/TypeScript, mas procuro tomar decisões pensando no contexto do produto, na manutenção do código e na clareza da arquitetura.
+
+Uso IA como ferramenta de apoio para acelerar pesquisa, explorar alternativas, revisar decisões e aumentar a produtividade em etapas bem definidas do desenvolvimento. Não trato IA como substituta de entendimento técnico: a arquitetura, a validação e a responsabilidade sobre o código continuam sendo parte do meu processo.
+
+Gosto de pensar arquitetura com intenção, validar caminhos possíveis e analisar tanto resultados positivos quanto negativos. Não como alguém que só vê problemas, mas como alguém que procura pontos de falha para ampliar as possibilidades de solução e tomar decisões mais consistentes.
 
 ---
 
