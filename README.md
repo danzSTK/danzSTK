@@ -72,30 +72,36 @@ Gosto de pensar arquitetura com intenção, validar caminhos possíveis e analis
 
 ### Personal Finance App
 
-Aplicação de finanças pessoais em desenvolvimento, criada para estudar e aplicar conceitos de produto real, autenticação, modelagem de domínio, cache, deploy e arquitetura backend.
+Produto pessoal em desenvolvimento contínuo para gestão financeira, construído como uma aplicação real de ponta a ponta: backend, frontend, autenticação, persistência, cache, infraestrutura e deploy.
+
+O objetivo do projeto vai além de estudo. A proposta é construir uma aplicação escalável e utilizável no dia a dia, focada em facilitar a gestão financeira através do uso de inteligência artificial. A ideia é oferecer uma experiência simples e acessível, permitindo controle, resumos e interação com os dados financeiros de forma prática, seja dentro da própria aplicação ou por integrações externas (como WhatsApp).
+
+A aplicação é pensada como uma ferramenta gratuita e interativa, onde o usuário pode utilizar inclusive seu próprio plano de AI para consumir funcionalidades, mantendo flexibilidade e autonomia no uso.
 
 **Backend**
 
-- NestJS, TypeORM, PostgreSQL e Redis
-- Autenticação com JWT, refresh token e sessões
-- Organização baseada em DDD, Use Cases e Repository Pattern
-- Docker, NGINX e deploy em ambiente Linux
+- API com NestJS, TypeORM, PostgreSQL e Redis
+- Autenticação com Passport (estratégias JWT), refresh token e controle de sessões
+- Organização baseada em casos de uso, repositórios e separação entre domínio, aplicação e infraestrutura
+- Estrutura pensada para evoluir com novas regras de negócio sem acoplar tudo ao framework
 
 **Frontend**
 
-- Next.js, React, TypeScript e Tailwind CSS
-- Consumo de API, autenticação e interface responsiva
-- Foco em experiência mobile-first e componentização limpa
+- Interface com Next.js, React, TypeScript e Tailwind CSS
+- Foco em experiência mobile-first, autenticação e consumo da API
+- Construção orientada a componentes, estados de carregamento, formulários e validações
 
----
+**Infraestrutura**
 
-## Estudando agora
+- Deploy em ambiente Linux com Docker e proxy reverso
+- Configuração de domínio, HTTPS, NGINX/Caddy e serviços auxiliares
+- Uso de Redis, banco relacional e automações de deploy/versionamento com GitHub Actions
+- Cloud e serviços externos (resumo): AWS, Oracle Cloud, Cloudflare (R2, Workers)
 
-- Domain-Driven Design
-- Clean Architecture
-- Segurança em autenticação
-- Infraestrutura com Linux, Docker e NGINX
-- Cloud, deploy e observabilidade de aplicações reais
+**Repositórios**
+
+- Backend: [personal-finance-backend](https://github.com/danzSTK/personal-finance-backend)
+- Frontend: [personal-finance-frontend](https://github.com/danzSTK/personal-finance-frontend)
 
 ---
 
@@ -110,5 +116,6 @@ Aplicação de finanças pessoais em desenvolvimento, criada para estudar e apli
 
 ## Contato
 
+- Email: [danielfelix.dev@gmail.com](mailto:danielfelix.dev@gmail.com)
 - LinkedIn: [linkedin.com/in/danielfelixdev](https://www.linkedin.com/in/danielfelixdev)
 - GitHub: [github.com/danzSTK](https://github.com/danzSTK)
