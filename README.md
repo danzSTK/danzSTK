@@ -34,6 +34,7 @@ Gosto de pensar arquitetura com intenção, validar caminhos possíveis e analis
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-BD0000?style=for-the-badge" />
 </div>
 
 ### Dados e cache
