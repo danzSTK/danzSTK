@@ -1,8 +1,10 @@
-# Olá, eu sou Daniel Félix
+# Olá, eu sou Daniel Felix
 
-Desenvolvedor Full Stack focado em construir aplicações web com **TypeScript**, **React**, **Next.js**, **Node.js**, **NestJS** e **PostgreSQL**.
+Desenvolvedor Full Stack com base forte no ecossistema **JavaScript/TypeScript**.
 
-Tenho interesse forte em backend, arquitetura de software, autenticação, infraestrutura e deploy de aplicações reais. Atualmente venho aprofundando meus estudos em **DDD**, **Clean Architecture**, **Docker**, **Redis**, **NGINX** e cloud.
+Trabalho principalmente com aplicações web, APIs e interfaces modernas, usando ferramentas como React, Next.js, Node.js, NestJS, Fastify, Express e PostgreSQL conforme o contexto do projeto.
+
+Tenho interesse especial em backend, modelagem de domínio, autenticação, arquitetura de software, infraestrutura e entrega de aplicações reais em produção.
 
 ---
 
